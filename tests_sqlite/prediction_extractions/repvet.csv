@@ -1,0 +1,6 @@
+predictions_id,predictions_review_text,predictions_recommended,predictions_review_score
+1,Test,Recommandé,45
+2,Test,Recommandé,45
+3,Test,Recommandé,45
+4,Test,Recommandé,45
+5,Test2,Non Recommandé,20
